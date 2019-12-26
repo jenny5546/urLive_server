@@ -13,4 +13,3 @@ Server of the Whale Extension 'UrLive', uses django python
 
 <hr/>
 
-![Alt urLive image](/Users/jaeeun/Desktop/urLive.png)
